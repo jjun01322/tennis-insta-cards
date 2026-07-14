@@ -1,7 +1,7 @@
 {
  "skip": false,
  "date": "2026-07-15",
- "caption": "🎾 오늘의 테니스 브리핑 | 2026.07.15 (수)\n\n오늘의 테니스 소식을 전해드립니다. 국내 유망주들의 활약부터 윔블던을 뜨겁게 달군 세계적인 선수들의 소식까지 한눈에 확인하세요.\n\n1. 12세 테니스 대표팀, 동아시아 예선 1차전 완승\n2. 전국체전 남고부 이성민, 여고부 이보람 우승\n3. 전국주니어선수권 김명관·홍서준 타이틀 도전\n4. 권순우, 2년 만의 윔블던 예선 1회전 통과\n5. 신네르, 윔블던 우승으로 세계 1위 입지 굳혀\n6. 오다 도키토, 윔블던 휠체어 단식 2연패 달성\n7. 알카라스, 세계 랭킹 3위로 하락\n8. 조코비치, 25번째 메이저 우승 향한 부담감\n9. 윔블던 챔피언스 디너, 신네르와 노스코바 참석\n\n📌 더 많은 소식은 @rafanadalacademy_kr\n\n#테니스 #테니스뉴스 #나달아카데미 #NadalAcademy #권순우 #윔블던 #Wimbledon #알카라스 #Alcaraz #신네르 #Sinner #조코비치 #Djokovic #ATP #WTA",
+ "caption": "🎾 오늘의 테니스 브리핑 | 2026.07.15 (수)\n\n국내외 테니스 코트에서 전해진 뜨거운 승보와 주요 소식을 전해드립니다. 권순우 선수의 윔블던 예선 통과 소식부터 주니어 대표팀의 활약, 그리고 세계 무대를 뒤흔든 윔블던 챔피언들의 소식까지 한눈에 확인해 보세요.\n\n1. 권순우, 윔블던 예선 1회전 가뿐히 통과\n2. 12세 대표팀, 동아시아 예선 남녀 완승\n3. 이성민·이보람, 전국체전 고등부 우승\n4. 김명관·홍서준, 전국주니어선수권 도전\n5. 신네르, 체력 논란 잠재우고 윔블던 우승\n6. 알카라스 세계 3위 하락, 대진 난항 예고\n7. 오다 도키토, 윔블던 휠체어 단식 2연패\n\n📌 더 많은 소식은 @rafanadalacademy_kr\n\n#테니스 #테니스뉴스 #나달아카데미 #NadalAcademy #권순우 #윔블던 #Wimbledon #알카라스 #Alcaraz #신네르 #Sinner #ATP #WTA #테니스한국",
  "images": [
   "https://raw.githubusercontent.com/jjun01322/tennis-insta-cards/main/out/2026-07-15/00_cover.jpg",
   "https://raw.githubusercontent.com/jjun01322/tennis-insta-cards/main/out/2026-07-15/01_news.jpg",
@@ -10,9 +10,7 @@
   "https://raw.githubusercontent.com/jjun01322/tennis-insta-cards/main/out/2026-07-15/04_news.jpg",
   "https://raw.githubusercontent.com/jjun01322/tennis-insta-cards/main/out/2026-07-15/05_news.jpg",
   "https://raw.githubusercontent.com/jjun01322/tennis-insta-cards/main/out/2026-07-15/06_news.jpg",
-  "https://raw.githubusercontent.com/jjun01322/tennis-insta-cards/main/out/2026-07-15/07_news.jpg",
-  "https://raw.githubusercontent.com/jjun01322/tennis-insta-cards/main/out/2026-07-15/08_news.jpg",
-  "https://raw.githubusercontent.com/jjun01322/tennis-insta-cards/main/out/2026-07-15/09_news.jpg"
+  "https://raw.githubusercontent.com/jjun01322/tennis-insta-cards/main/out/2026-07-15/07_news.jpg"
  ],
  "files": [
   "out/2026-07-15/00_cover.jpg",
@@ -22,9 +20,7 @@
   "out/2026-07-15/04_news.jpg",
   "out/2026-07-15/05_news.jpg",
   "out/2026-07-15/06_news.jpg",
-  "out/2026-07-15/07_news.jpg",
-  "out/2026-07-15/08_news.jpg",
-  "out/2026-07-15/09_news.jpg"
+  "out/2026-07-15/07_news.jpg"
  ],
  "candidate_keys": [
   "63a3e798c0d8a8fb",
@@ -35,8 +31,8 @@
   "1129187c08b4ab0d",
   "958f0d42dcad0b7a",
   "9f8367dd0b4c308a",
+  "b62a530f4d1c13f3",
   "eba2c7b81ce2c9d4",
-  "d80a3ec8f43e40d6",
   "a4e75d0cd9b03c84",
   "9d49264f7fafe768",
   "c193faceb7d6db71",
